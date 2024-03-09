@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+
 	ifstream ifs;
 
 	int N;
@@ -22,4 +23,5 @@ int main()
 		}
 	}
 	ifs.close();
+	
 }
