@@ -1,0 +1,6 @@
+5
+Kathy 100 99
+Mary 100 100
+Jim 100 100
+Bill 90 80
+Kurt 90 100
